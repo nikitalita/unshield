@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/master/docs/vcpkg.schema.json",
+  "name": "unshield",
+  "version-semver": "1.5.1",
+  "port-version": 0,
+  "description": "unshield",
+  "homepage": "https://github.com/twogood/unshield",
+  "license": "LGPL-3.0-only",
+  "supports": "windows & x64",
+  "dependencies": [
+    "zlib"
+  ]
+}
